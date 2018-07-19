@@ -1,5 +1,5 @@
 # alfred-search-dropbox-paper
-for alfread plugin. search and open file on Dropbox Paper.
+Search and open file on Dropbox Paper.
 
 [Download](https://github.com/takumiumiu/alfred-search-dropbox-paper/releases)
 
